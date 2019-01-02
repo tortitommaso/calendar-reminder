@@ -7,3 +7,4 @@
 target
 bin/
 tokens/
+src/main/resources/credentials.json
